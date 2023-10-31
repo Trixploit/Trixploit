@@ -1,6 +1,5 @@
-<h1 align="center">Hello, I'm Trixploit!</h1>
+<div>
+  <h1>✨ Hello, I'm Trixploit!</h1>
 
-<div align="left">
-  <h1 align="left">Text</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=Trixploit" align="right">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trixploit&theme=nightfox&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 </div>
